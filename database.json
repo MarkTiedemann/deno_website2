@@ -1734,6 +1734,13 @@
     "desc": "A flexible declarative task runner",
     "default_version": "master"
   },
+  "dvm": {
+    "type": "github",
+    "owner": "MarkTiedemann",
+    "repo": "dvm.cmd",
+    "desc": "Deno Version Manager for Windows.",
+    "default_version": "master"
+  },
   "dynamodb": {
     "type": "github",
     "owner": "chiefbiiko",
